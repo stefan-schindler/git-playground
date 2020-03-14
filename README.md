@@ -1,4 +1,3 @@
-# git-playgrounds <- feature changes
 Just for testing different GitHub features.
 Made some changes....directly to master
 
