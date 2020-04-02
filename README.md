@@ -5,6 +5,8 @@ Made some changes....directly to master
 
 This asssre real changes to feature .. made on GitHub online
 
-I appended final words before PullRequestssss
-asfafas
+I appended final words before PullRequest more changes
+
 # master
+
+feature changes
