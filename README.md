@@ -1,8 +1,3 @@
-FORBIDDEN cahnageae
-change
-
-Another 
-
 # feature
 asfasfasf master cahnges
 Just for testing different GitHub features.
